@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1468006045 source:c:\users\jamie\documents\my code\deus ex mankind divided cost calculator\demdcecc.cpp
+	<iomanip>
+	<string>
+	<iostream>
+
+1469807326 source:c:\users\jamie\documents\my code\game cost calculator\game cost calculator.cpp
+	<iomanip>
+	<istream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+
